@@ -4,8 +4,6 @@
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
-- **[English](/README_EN.md)**
-
 [灵笼身份牌](https://www.bilibili.com/video/BV1do4y1f7v5) 和 灵笼光[影探测仪](https://www.bilibili.com/video/BV1FK411F7UJ)的配套软硬件资料。
 
 ![图 1](images/Posts/README/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2.png)  
