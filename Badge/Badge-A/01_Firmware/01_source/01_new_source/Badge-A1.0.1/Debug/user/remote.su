@@ -1,3 +1,0 @@
-remote.c:44:6:remote_isr	4	static
-remote.c:59:6:HAL_TIM_IC_CaptureCallback	16	static
-remote.c:107:4:Remote_Scan	16	static

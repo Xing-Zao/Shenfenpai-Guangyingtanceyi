@@ -1,3 +1,0 @@
-led.c:40:6:led_isr	4	static
-led.c:62:6:set_led_value	16	static
-led.c:80:6:set_led_status	16	static

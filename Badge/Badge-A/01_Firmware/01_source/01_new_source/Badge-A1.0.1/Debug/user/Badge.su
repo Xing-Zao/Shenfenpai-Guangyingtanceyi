@@ -1,6 +1,0 @@
-Badge.c:67:6:show_name	152	static
-Badge.c:103:6:change_to_up	16	static
-Badge.c:118:6:change_to_down	16	static
-Badge.c:135:6:remote_change_pic	24	static
-Badge.c:167:6:setup	16	static
-Badge.c:186:6:loop	8	static
