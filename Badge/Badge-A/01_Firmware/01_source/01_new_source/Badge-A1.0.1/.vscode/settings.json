@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "remote.h": "c",
+        "common.h": "c"
+    }
+}
