@@ -1,53 +1,53 @@
-,Reference, Quantity, Value, Footprint, Datasheet, Description, Height, Manufacturer_Name, Manufacturer_Part_Number
-1,BT1 ,1,Battery,Connector:JWT_A3963_1x02_P3.96mm_Vertical,~,,,,
-1,C1 C7 C11 C10 C13 ,5,22uF,Capacitor_SMD:C_1206_3216Metric,~,,,,
-1,C12 ,1,330nF,Capacitor_SMD:C_0402_1005Metric,~,,,,
-1,C14 C23 ,2,2.2uF,Capacitor_SMD:C_0603_1608Metric,~,,,,
-1,C15 C18 ,2,1uF,Capacitor_SMD:C_0603_1608Metric,~,,,,
-1,C17 C16 ,2,22pF,Capacitor_SMD:C_0402_1005Metric,~,,,,
-1,C19 C20 C21 C22 ,4,0.1uF,Capacitor_SMD:C_0402_1005Metric,~,,,,
-1,C2 ,1,10nF,Capacitor_SMD:C_0402_1005Metric,~,,,,
-1,C6 C5 C3 C4 ,4,100nF,Capacitor_SMD:C_0402_1005Metric,~,,,,
-1,C8 ,1,82pF,Capacitor_SMD:C_0402_1005Metric,~,,,,
-1,C9 C24 ,2,4.7uF,Capacitor_SMD:C_1206_3216Metric,~,,,,
-1,D1 ,1,SS34,Diode_SMD:D_SMA,http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf,,,,
-0,D2 ,1,G,LED_SMD:LED_0603_1608Metric,~,,,,
-0,D3 ,1,R,LED_SMD:LED_0603_1608Metric,~,,,,
-1,D4 ,1,remote,SamacSys_Parts:Con-2.5mm_0.9x1.7,~,,,,
-1,D5 ,1,B550C,Diode_SMD:D_SMC,https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet,,,,
-1,IC1 IC2 ,2,HY2213-BB3A,SamacSys_Parts:SOT95P280X140-6N,https://datasheet.lcsc.com/szlcsc/HYCON-Tech-HY2213-BB3A_C113632.pdf,PMIC - Battery Management SOT-23-6 RoHS,1.4,Hycon,HY2213-BB3A
-1,IC3 ,1,RT8279GSP,Package_SO:Diodes_SO-8EP,https://www.richtek.com/assets/product_file/RT8279/DS8279-01.pdf,"RICHTEK - RT8279GSP - IC, DC-DC CONVERTER, BUCK, 500KHZ, SOP-8",1.753,RICHTEK,RT8279GSP
-1,J1 ,1,USB_B_Micro,Connector_USB:USB_Micro-B_Molex-105017-0001,~,,,,
-1,J10 ,1,SERVOB,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal,~,,,,
-1,J11 ,1,LEDB,Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal,~,,,,
-1,J2 ,1,BAT,Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal,~,,,,
-1,J4 ,1,SWD,Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical,~,,,,
-1,J5 ,1,Conn_01x16,Connector_FFC-FPC:TE_1-1734839-6_1x16-1MP_P0.5mm_Horizontal,~,,,,
-1,J6 ,1,SERVOA,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal,~,,,,
-1,J7 ,1,LEDA,Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal,~,,,,
-1,J8 ,1,LEDC,Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal,~,,,,
-1,J9 ,1,LEDD,Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal,~,,,,
-1,L1 ,1,3.3uH,Inductor_SMD:L_Sumida_CDMC6D28_7.25x6.5mm,~,,,,
-1,L2 ,1,15uH,Inductor_SMD:L_Neosid_SM-PIC1004H,~,,,,
-1,Q1 Q2 ,2,SI2302,Package_TO_SOT_SMD:SOT-23,~,,,,
-1,Q5 Q4 ,2,SS8050,Package_TO_SOT_SMD:SOT-23,~,,,,
-1,R11 ,1,31.6k,Resistor_SMD:R_0402_1005Metric,~,,,,
-1,R14 ,1,5.1K,Resistor_SMD:R_0402_1005Metric,~,,,,
-1,R15 R4 R10 ,3,100K,Resistor_SMD:R_0402_1005Metric,~,,,,
-1,R16 ,1,10M,Resistor_SMD:R_0402_1005Metric,~,,,,
-1,R17 R21 ,2,100R,Resistor_SMD:R_0603_1608Metric,~,,,,
-1,R18 R12 R13 R19 ,4,1K,Resistor_SMD:R_0402_1005Metric,~,,,,
-1,R23 ,1,10R,Resistor_SMD:R_0603_1608Metric,~,,,,
-1,R5 R20 R22 R3 R6 ,5,10K,Resistor_SMD:R_0402_1005Metric,~,,,,
-1,R7 R1 R2 ,3,100R,Resistor_SMD:R_0402_1005Metric,~,,,,
-1,R8 R9 ,2,20R,Resistor_SMD:R_2512_6332Metric,~,,,,
-1,SW1 ,1,Power_BT,Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal,~,,,,
-1,TP1 ,1,NRST,TestPoint:TestPoint_Pad_D1.0mm,~,,,,
-1,U1 ,1,SLM4800,Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias,,,,,
-8,U2 ,1,XC6206,Package_TO_SOT_SMD:SOT-23,http://www.ti.com/lit/ds/symlink/lm1117.pdf,,,,
-2,U3 ,1,STM32F401CCUx,Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00086815.pdf,,,,
-1,U4 ,1,TSMP58138,OptoDevice:Vishay_MINICAST-3Pin,http://www.vishay.com/docs/82486/tsmp58138.pdf,,,,
-1,U5 ,1,W25Q128JVS,SamacSys_Parts:SON127P800X600X80-9N-D,http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf,,,,
-1,U8 U6 U7 ,3,SN74LVC2T45DCUR,Package_SO:VSSOP-8_2.4x2.1mm_P0.5mm,http://www.ti.com/lit/ds/symlink/sn74lvc2t45.pdf,,,,
-1,U9 ,1,AO4459,Package_SO:SOP-8_3.9x4.9mm_P1.27mm,,,,,
-3,Y1 ,1,25MHz/20pF/10ppm,Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm,~,,,,
+Reference, Quantity, Value, Footprint, Datasheet, Description, Height, Manufacturer_Name, Manufacturer_Part_Number
+BT1 ,1,"Battery","Connector:JWT_A3963_1x02_P3.96mm_Vertical","~"
+C1 C7 C11 C10 C13 ,5,"22uF","Capacitor_SMD:C_1206_3216Metric","~"
+C12 ,1,"330nF","Capacitor_SMD:C_0402_1005Metric","~"
+C14 C23 ,2,"2.2uF","Capacitor_SMD:C_0603_1608Metric","~"
+C15 C18 ,2,"1uF","Capacitor_SMD:C_0603_1608Metric","~"
+C17 C16 ,2,"22pF","Capacitor_SMD:C_0402_1005Metric","~"
+C19 C20 C21 C22 ,4,"0.1uF","Capacitor_SMD:C_0402_1005Metric","~"
+C2 ,1,"10nF","Capacitor_SMD:C_0402_1005Metric","~"
+C6 C5 C3 C4 ,4,"100nF","Capacitor_SMD:C_0402_1005Metric","~"
+C8 ,1,"82pF","Capacitor_SMD:C_0402_1005Metric","~"
+C9 C24 ,2,"4.7uF","Capacitor_SMD:C_1206_3216Metric","~"
+D1 ,1,"SS34","Diode_SMD:D_SMA","http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf"
+D2 ,1,"G","LED_SMD:LED_0603_1608Metric","~"
+D3 ,1,"R","LED_SMD:LED_0603_1608Metric","~"
+D4 ,1,"remote","SamacSys_Parts:Con-2.5mm_0.9x1.7","~"
+D5 ,1,"B550C","Diode_SMD:D_SMC","https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet"
+IC1 IC2 ,2,"HY2213-BB3A","SamacSys_Parts:SOT95P280X140-6N","https://datasheet.lcsc.com/szlcsc/HYCON-Tech-HY2213-BB3A_C113632.pdf","PMIC - Battery Management SOT-23-6 RoHS","1.4","Hycon","HY2213-BB3A"
+IC3 ,1,"RT8279GSP","Package_SO:Diodes_SO-8EP","https://www.richtek.com/assets/product_file/RT8279/DS8279-01.pdf","RICHTEK - RT8279GSP - IC, DC-DC CONVERTER, BUCK, 500KHZ, SOP-8","1.753","RICHTEK","RT8279GSP"
+J1 ,1,"USB_B_Micro","Connector_USB:USB_Micro-B_Molex-105017-0001","~"
+J10 ,1,"SERVOB","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal","~"
+J11 ,1,"LEDB","Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal","~"
+J2 ,1,"BAT","Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal","~"
+J4 ,1,"SWD","Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical","~"
+J5 ,1,"Conn_01x16","Connector_FFC-FPC:TE_1-1734839-6_1x16-1MP_P0.5mm_Horizontal","~"
+J6 ,1,"SERVOA","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal","~"
+J7 ,1,"LEDA","Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal","~"
+J8 ,1,"LEDC","Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal","~"
+J9 ,1,"LEDD","Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal","~"
+L1 ,1,"3.3uH","Inductor_SMD:L_Sumida_CDMC6D28_7.25x6.5mm","~"
+L2 ,1,"15uH","Inductor_SMD:L_Neosid_SM-PIC1004H","~"
+Q1 Q2 ,2,"SI2302","Package_TO_SOT_SMD:SOT-23","~"
+Q5 Q4 ,2,"SS8050","Package_TO_SOT_SMD:SOT-23","~"
+R11 ,1,"31.6k","Resistor_SMD:R_0402_1005Metric","~"
+R14 ,1,"5.1K","Resistor_SMD:R_0402_1005Metric","~"
+R15 R4 R10 ,3,"100K","Resistor_SMD:R_0402_1005Metric","~"
+R16 ,1,"10M","Resistor_SMD:R_0402_1005Metric","~"
+R17 R21 ,2,"100R","Resistor_SMD:R_0603_1608Metric","~"
+R18 R12 R13 R19 ,4,"1K","Resistor_SMD:R_0402_1005Metric","~"
+R23 ,1,"10R","Resistor_SMD:R_0603_1608Metric","~"
+R5 R20 R22 R3 R6 ,5,"10K","Resistor_SMD:R_0402_1005Metric","~"
+R7 R1 R2 ,3,"100R","Resistor_SMD:R_0402_1005Metric","~"
+R8 R9 ,2,"20R","Resistor_SMD:R_2512_6332Metric","~"
+SW1 ,1,"Power_BT","Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal","~"
+TP1 ,1,"NRST","TestPoint:TestPoint_Pad_D1.0mm","~"
+U1 ,1,"SLM4800","Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias",""
+U2 ,1,"XC6206","Package_TO_SOT_SMD:SOT-23","http://www.ti.com/lit/ds/symlink/lm1117.pdf"
+U3 ,1,"STM32F401CCUx","Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm","http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00086815.pdf"
+U4 ,1,"TSMP58138","OptoDevice:Vishay_MINICAST-3Pin","http://www.vishay.com/docs/82486/tsmp58138.pdf"
+U5 ,1,"W25Q128JVS","SamacSys_Parts:SON127P800X600X80-9N-D","http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf"
+U8 U6 U7 ,3,"SN74LVC2T45DCUR","Package_SO:VSSOP-8_2.4x2.1mm_P0.5mm","http://www.ti.com/lit/ds/symlink/sn74lvc2t45.pdf"
+U9 ,1,"AO4459","Package_SO:SOP-8_3.9x4.9mm_P1.27mm",""
+Y1 ,1,"25MHz/20pF/10ppm","Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm","~"

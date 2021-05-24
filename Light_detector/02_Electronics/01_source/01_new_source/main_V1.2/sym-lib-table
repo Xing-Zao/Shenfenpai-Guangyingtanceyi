@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Light_detector_V1.0-rescue)(type Legacy)(uri ${KIPRJMOD}/Light_detector_V1.0-rescue.lib)(options "")(descr ""))
-)
